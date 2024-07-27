@@ -41,7 +41,7 @@
 
 2. Install dependencies:
    ```bash
-   npm intsall
+   npm install
 
 ## Contributing
 
